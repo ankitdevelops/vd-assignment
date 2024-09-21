@@ -1,0 +1,9 @@
+user_id,name,email
+1,John Doe,john.doe@example.com
+2,Jane Smith,jane.smith@example.com
+3,Bob Johnson,bob.johnson@invalid-email
+4,Emily Davis,emily.davis@example.com
+1,John Doe,john.doe@example.com
+5,Mike Brown,mike.brown@example
+6,Chris White,chris.white@domain.com
+7,Lisa Black,lisa.black@domain.
