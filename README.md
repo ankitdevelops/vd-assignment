@@ -8,6 +8,7 @@
     - [Question 3](#question-3)
     - [Question 4](#question-4)
     - [Question 5](#question-5)
+    - [Question 6](#question-6)
 
 
 ## Installations
@@ -86,3 +87,5 @@ python main.py
 
 ```
 
+### Question 6
+- I couldn't solve this problem
