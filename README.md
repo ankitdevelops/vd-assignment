@@ -7,6 +7,7 @@
     - [Question 2](#question-2)
     - [Question 3](#question-3)
     - [Question 4](#question-4)
+    - [Question 5](#question-5)
 
 
 ## Installations
@@ -64,7 +65,7 @@ python manage.py generate_orders
 python manage.py runserver
 
 ```
-- visit  [here](http://127.0.0.1:8000/)
+- visit  [your local host port 8000](http://127.0.0.1:8000/)
 
 ### [Question 4](./04_rate_limiter/main.py)
 
@@ -74,7 +75,14 @@ cd 04_rate_limiter
 uvicorn main:app --reload
 
 ```
-- visit  [here](http://127.0.0.1:8000/)
+- visit  [send get requeset on your local host port 8000](http://127.0.0.1:8000/)
 
+### [Question 5](./05_aggegrate_data/main.py)
 
+```sh
+cd 05_aggegrate_data
+
+python main.py
+
+```
 
